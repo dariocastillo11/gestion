@@ -1,0 +1,649 @@
+[
+  {
+    "numero": 1,
+    "tipo": "multiple_choice",
+    "pregunta": "Facultad, poder o potestad jurídica del individuo que le permite realizar determinados actos y exigir con miras a la satisfacción de un interés honesto y justo, digno de la tutela jurídica.",
+    "opciones": [
+      "a) derecho objetivo",
+      "b) derecho natural",
+      "c) derecho subjetivo",
+      "d) derecho positivo"
+    ],
+    "respuesta_correcta": "c) derecho subjetivo"
+  },
+  {
+    "numero": 2,
+    "tipo": "multiple_choice",
+    "pregunta": "Toda persona Humana goza de la Aptitud para ser Titular de Derechos y Deberes Jurídicos. La Ley puede privar o limitar esta Capacidad respecto de Hechos, Simples Actos, o Actos Jurídicos. Este concepto se refiere a:",
+    "opciones": [
+      "a) Capacidad de ejercicio",
+      "b) Capacidad de derecho",
+      "c) Capacidad de hecho",
+      "d) ninguna opción"
+    ],
+    "respuesta_correcta": "c) Capacidad de hecho"
+  },
+  {
+    "numero": 3,
+    "tipo": "multiple_choice",
+    "pregunta": "Algunos tipos de domicilio definidos en el Código Civil y Comercial de la Nación.",
+    "opciones": [
+      "a) Privado",
+      "b) Comercial",
+      "c) Especial",
+      "d) ninguna opción"
+    ],
+    "respuesta_correcta": "c) Especial"
+  },
+  {
+    "numero": 4,
+    "tipo": "multiple_choice",
+    "pregunta": "Personas jurídicas privadas.",
+    "opciones": [
+      "a) las asociaciones civiles",
+      "b) la iglesia Católica",
+      "c) las entidades autárquicas",
+      "d) ninguna opción es correcta"
+    ],
+    "respuesta_correcta": "a) las asociaciones civiles"
+  },
+  {
+    "numero": 5,
+    "tipo": "multiple_choice",
+    "pregunta": "Las cosas muebles que se encuentran inmovilizadas por su adhesión física al suelo con carácter perdurable. Forman un todo con el inmueble y no pueden ser objeto de un derecho separado sin la voluntad del propietario.",
+    "opciones": [
+      "a) Cosas muebles por su naturaleza",
+      "b) Cosas Inmuebles por accesión moral",
+      "c) Cosas inmuebles por su naturaleza",
+      "d) ninguna opción"
+    ],
+    "respuesta_correcta": "b) Cosas Inmuebles por accesión moral"
+  },
+  
+  {
+    "numero": 6,
+    "tipo": "multiple_choice",
+    "pregunta": "Derechos personales.",
+    "opciones": [
+      "a) son absolutos",
+      "b) El titular goza de preferencia de acreedores frente a todos",
+      "c) De plazo limitado en el tiempo. Opera prescripción liberatoria",
+      "d) Se adquieren por usucapión"
+    ],
+    "respuesta_correcta": "c) De plazo limitado en el tiempo. Opera prescripción liberatoria"
+  },
+  {
+    "numero": 7,
+    "tipo": "multiple_choice",
+    "pregunta": "Derechos reales accesorios de garantía.",
+    "opciones": [
+      "a) de superficie",
+      "b) usufructo",
+      "c) hipoteca",
+      "d) servidumbre"
+    ],
+    "respuesta_correcta": "c) hipoteca"
+  },
+  {
+    "numero": 8,
+    "tipo": "multiple_choice",
+    "pregunta": "Formas de adquirir dominio. Se adquiere por apropiación:",
+    "opciones": [
+      "a) cosas inmuebles",
+      "b) cosas muebles no registrables sin dueño, abandonadas",
+      "c) cosas perdidas",
+      "d) animales domésticos"
+    ],
+    "respuesta_correcta": "b) cosas muebles no registrables sin dueño, abandonadas"
+  },
+  {
+    "numero": 9,
+    "tipo": "multiple_choice",
+    "pregunta": "Tipos de condominio.",
+    "opciones": [
+      "a) con indivisión forzosa temporaria hasta 10 años",
+      "b) con indivisión forzosa perdurable sobre accesorios no indispensables al uso común",
+      "c) por confusión de límites",
+      "d) ninguna opción es correcta"
+    ],
+    "respuesta_correcta": "a) con indivisión forzosa temporaria hasta 10 años"
+  },
+  {
+    "numero": 10,
+    "tipo": "multiple_choice",
+    "pregunta": "Servidumbre forzosa.",
+    "opciones": [
+      "a) por disposición del fundo dominante",
+      "b) de tránsito a favor de un inmueble sin comunicación suficiente con la vía pública",
+      "c) de acueducto por imposición de un particular",
+      "d) ninguna opción"
+    ],
+    "respuesta_correcta": "b) de tránsito a favor de un inmueble sin comunicación suficiente con la vía pública"
+  },
+  {
+    "numero": 11,
+    "tipo": "multiple_choice",
+    "pregunta": "Obligaciones en las que varios deudores deben el mismo objeto en razón de causas diferentes.",
+    "opciones": [
+      "a) Concurrentes",
+      "b) Disyuntivas",
+      "c) Solidarias",
+      "d) Ninguna opción es correcta"
+    ],
+    "respuesta_correcta": "a) Concurrentes"
+  },
+ 
+  {
+    "numero": 12,
+    "tipo": "multiple_choice",
+    "pregunta": "Sociedad Anónima fiscalización.",
+    "opciones": [
+      "a) a cargo de uno o más síndicos designados por la asamblea de accionistas, eligiendo igual número de síndicos suplentes",
+      "b) suscripción pública",
+      "c) síndicos designados por la asamblea de accionistas en los casos en que hagan oferta pública de sus acciones",
+      "d) ninguna opción"
+    ],
+    "respuesta_correcta": "c) síndicos designados por la asamblea de accionistas en los casos en que hagan oferta pública de sus acciones"
+  },
+
+  
+  {
+    "numero": 13,
+    "tipo": "multiple_choice",
+    "pregunta": "Derechos reales.",
+    "opciones": [
+      "a) Opera prescripción adquisitiva",
+      "b) Son ilimitados en su género",
+      "c) Son relativos",
+      "d) Ninguna opción es correcta"
+    ],
+    "respuesta_correcta": "a) Opera prescripción adquisitiva"
+  },
+  
+  
+  {
+    "numero": 14,
+    "tipo": "multiple_choice",
+    "pregunta": "“Promover la actuación de la justicia en defensa de la legalidad de los intereses generales de la sociedad”. Es función de:",
+    "opciones": [
+      "a) de la Auditoría de la Nación",
+      "b) del Consejo de la Magistratura",
+      "c) del Ministerio Público",
+      "d) del Defensor del Pueblo"
+    ],
+    "respuesta_correcta": "c) del Ministerio Público"
+  },
+  
+  {
+    "numero": 15,
+    "tipo": "multiple_choice",
+    "pregunta": "Dominio imperfecto.",
+    "opciones": [
+      "a) Tiene límite en el tiempo",
+      "b) Puede tener más de un titular",
+      "c) Uso, goce y disposición dentro de límites legales",
+      "d) Ninguna opción"
+    ],
+    "respuesta_correcta": "d) Ninguna opción"
+  },
+  {
+    "numero": 16,
+    "tipo": "multiple_choice",
+    "pregunta": "Limitaciones impuestas en razón del interés privado.",
+    "opciones": [
+      "a) Camino de sirga",
+      "b) Restricciones administrativas",
+      "c) Utilización de paredes divisorias",
+      "d) Ninguna opción es correcta"
+    ],
+    "respuesta_correcta": "c) Utilización de paredes divisorias"
+  },
+  {
+    "numero": 17,
+    "tipo": "multiple_choice",
+    "pregunta": "Algunos principios del derecho laboral:",
+    "opciones": [
+      "a) Onerosos, renunciables, bilaterales, discontinuo",
+      "b) Protectorio, irrenunciabilidad, continuidad, gratuidad procesos judiciales y administrativos",
+      "c) Protectorio, renunciables, continuidad, gratuidad procesos judiciales y administrativos",
+      "d) Ninguna de las anteriores"
+    ],
+    "respuesta_correcta": "b) Protectorio, irrenunciabilidad, continuidad, gratuidad procesos judiciales y administrativos"
+  },
+  {
+    "numero": 18,
+    "tipo": "multiple_choice",
+    "pregunta": "Derechos y obligaciones del trabajador/a:",
+    "opciones": [
+      "a) Trabajo y libre elección, medidas de seguridad, no ser discriminado",
+      "b) Sindicación, huelga, cumplir contrato, formación profesional",
+      "c) a y b son correctas",
+      "d) Ninguna es correcta"
+    ],
+    "respuesta_correcta": "c) a y b son correctas"
+  },
+  
+    {
+    "numero": 19,
+    "tipo": "multiple_choice",
+    "pregunta": "Serie de fallos que resuelven una misma cuestión en un mismo sentido, aplicando principios semejantes en cuestiones análogas.",
+    "opciones": [
+      "a) Sentencia",
+      "b) Doctrina",
+      "c) Jurisprudencia",
+      "d) Fallo"
+    ],
+    "respuesta_correcta": "c) Jurisprudencia"
+  },
+  {
+    "numero": 20,
+    "tipo": "multiple_choice",
+    "pregunta": "Función de la auditoría general de la nación",
+    "opciones": [
+      "a) Control del sector público en aspectos de derechos humanos",
+      "b) Promover la actuación de la justicia en defensa de la legalidad de los intereses generales de la sociedad",
+      "c) Defensa de los derechos tutelados por la constitución nacional",
+      "d) Ninguna de las opciones"
+    ],
+    "respuesta_correcta": "d) Ninguna de las opciones"
+  },
+  {
+    "numero": 21,
+    "tipo": "multiple_choice",
+    "pregunta": "Son derechos patrimoniales",
+    "opciones": [
+      "a) Derechos intelectuales",
+      "b) Derechos personales",
+      "c) Derechos reales",
+      "d) Ninguna de las opciones"
+    ],
+    "respuesta_correcta": "a) Derechos intelectuales, b) Derechos personales, c) Derechos reales"
+  },
+  {
+    "numero": 22,
+    "tipo": "multiple_choice",
+    "pregunta": "El código civil y comercial de la nación",
+    "opciones": [
+      "a) Reconoce derechos individuales en forma absoluta",
+      "b) No reconoce derechos de incidencia colectiva",
+      "c) No ampara el ejercicio abusivo de los derechos individuales y de incidencia colectiva cuando afectan el ambiente",
+      "d) Ninguna de las opciones"
+    ],
+    "respuesta_correcta": "c) No ampara el ejercicio abusivo de los derechos individuales y de incidencia colectiva cuando afectan el ambiente"
+  },
+  {
+    "numero": 23,
+    "tipo": "multiple_choice",
+    "pregunta": "Personas humanas incapaces de ejercicio de derecho",
+    "opciones": [
+      "a) Menor de edad emancipado por matrimonio",
+      "b) Persona declarada incapaz por sentencia jurídica",
+      "c) Ninguna de las opciones",
+      "d) Opciones a y b"
+    ],
+    "respuesta_correcta": "b) Persona declarada incapaz por sentencia jurídica"
+  },
+  {
+    "numero": 24,
+    "tipo": "multiple_choice",
+    "pregunta": "Atributos de la persona jurídica",
+    "opciones": [
+      "a) Objeto debe ser preciso y determinado",
+      "b) Domicilio y sede social fijado en estatuto o en la autorización para funcionar",
+      "c) Ninguna de las opciones",
+      "d) Patrimonio"
+    ],
+    "respuesta_correcta": "a) Objeto debe ser preciso y determinado, b) Domicilio y sede social fijado en estatuto o en la autorización para funcionar, d) Patrimonio"
+  },
+  {
+    "numero": 25,
+    "tipo": "multiple_choice",
+    "pregunta": "Persona jurídica pública",
+    "opciones": [
+      "a) El consorcio de propiedad horizontal",
+      "b) Universidad nacional de Córdoba",
+      "c) Entidad religiosa",
+      "d) Club deportivo"
+    ],
+    "respuesta_correcta": "b) Universidad nacional de Córdoba"
+  },
+  {
+    "numero": 26,
+    "tipo": "multiple_choice",
+    "pregunta": "Se llaman cosas",
+    "opciones": [
+      "a) Bienes materiales susceptibles de valor económico",
+      "b) El patrimonio",
+      "c) La marca de una empresa",
+      "d) Energía y las fuerzas de la naturaleza susceptibles de ser puestas al servicio del hombre"
+    ],
+    "respuesta_correcta": "a) Bienes materiales susceptibles de valor económico, d) Energía y las fuerzas de la naturaleza susceptibles de ser puestas al servicio del hombre"
+  },
+  {
+    "numero": 27,
+    "tipo": "multiple_choice",
+    "pregunta": "Cosas que en todo individuo de la especie equivale a otro de la misma especie, y que pueden sustituirse por otras de la misma calidad y en igual cantidad",
+    "opciones": [
+      "a) Consumibles",
+      "b) No consumibles",
+      "c) Divisibles",
+      "d) Fungibles"
+    ],
+    "respuesta_correcta": "d) Fungibles"
+  },
+  {
+    "numero": 28,
+    "tipo": "multiple_choice",
+    "pregunta": "El dolo como vicio de la voluntad en el acto jurídico",
+    "opciones": [
+      "a) Ataca la buena fe",
+      "b) Ataca la libertad",
+      "c) Ataca la intención",
+      "d) Ataca el discernimiento"
+    ],
+    "respuesta_correcta": "c) Ataca la intención"
+  },
+  {
+    "numero": 29,
+    "tipo": "multiple_choice",
+    "pregunta": "El dolo es causa de la nulidad del acto jurídico",
+    "opciones": [
+      "a) Ninguna de las opciones",
+      "b) Si es grave",
+      "c) Produzca o no daño importante",
+      "d) Si es determinante de la voluntad"
+    ],
+    "respuesta_correcta": "b) Si es grave, d) Si es determinante de la voluntad"
+  },
+  {
+    "numero": 30,
+    "tipo": "multiple_choice",
+    "pregunta": "Derechos personales",
+    "opciones": [
+      "a) Titular goza de privilegio de acreedores",
+      "b) Opera prescripción adquisitiva",
+      "c) Son relativos",
+      "d) Son limitados en su género"
+    ],
+    "respuesta_correcta": "c) Son relativos, d) Son limitados en su género"
+  },
+  {
+    "numero": 31,
+    "tipo": "multiple_choice",
+    "pregunta": "Derechos reales",
+    "opciones": [
+      "a) Se ejercen sobre cosas o bien señalado por ley",
+      "b) Nacen y se transmiten sin requisito formal",
+      "c) El objeto del derecho es una prestación",
+      "d) Limitados en número, creados por ley"
+    ],
+    "respuesta_correcta": "a) Se ejercen sobre cosas o bien señalado por ley, d) Limitados en número, creados por ley"
+  },
+  {
+    "numero": 32,
+    "tipo": "multiple_choice",
+    "pregunta": "Derecho real sobre cosa ajena",
+    "opciones": [
+      "a) Posesión",
+      "b) Propiedad horizontal",
+      "c) Servidumbre",
+      "d) Tenencia"
+    ],
+    "respuesta_correcta": "c) Servidumbre"
+  },
+  {
+    "numero": 33,
+    "tipo": "multiple_choice",
+    "pregunta": "Adquisición o transmisión de derechos reales",
+    "opciones": [
+      "a) Requieren publicidad suficiente para ser oponibles a terceros",
+      "b) La adquisición por acto entre vivos sólo requiere el título suficiente",
+      "c) La inscripción registral es modo suficiente para transmitir o constituir derechos reales sobre cosas muebles",
+      "d) Ninguna opción correcta"
+    ],
+    "respuesta_correcta": "a) Requieren publicidad suficiente para ser oponibles a terceros"
+  },
+  {
+    "numero": 34,
+    "tipo": "multiple_choice",
+    "pregunta": "Dominio perfecto",
+    "opciones": [
+      "a) Uso, goce y posesión material de la cosa dentro de los límites previstos",
+      "b) Tiene límite en el tiempo",
+      "c) Puede tener más de un titular",
+      "d) Todas las opciones son correctas"
+    ],
+    "respuesta_correcta": "a) Uso, goce y posesión material de la cosa dentro de los límites previstos"
+  },
+  {
+    "numero": 35,
+    "tipo": "multiple_choice",
+    "pregunta": "Derecho de superficie",
+    "opciones": [
+      "a) Derecho personal sobre inmueble ajeno",
+      "b) Derecho real temporario",
+      "c) Se ejerce sobre inmueble ajeno",
+      "d) Facultad de disponer material y jurídica sobre inmueble propio"
+    ],
+    "respuesta_correcta": "b) Derecho real temporario, c) Se ejerce sobre inmueble ajeno"
+  },
+  {
+    "numero": 36,
+    "tipo": "multiple_choice",
+    "pregunta": "Tipos de condominio",
+    "opciones": [
+      "a) Con indivisión forzosa temporaria",
+      "b) Con indivisión forzosa perdurable, sobre accesorios no indispensables al uso común",
+      "c) Por confusión de límites",
+      "d) Con indivisión forzosa perdurable sobre muros cercos y fosos"
+    ],
+    "respuesta_correcta": "a) Con indivisión foraczosa temporaria, d) Con indivisión forzosa perdurable sobre muros cercos y fosos"
+  },
+  {
+    "numero": 37,
+    "tipo": "multiple_choice",
+    "pregunta": "Facultad, poder o potestad jurídica del individuo que le permite realizar determinados actos",
+    "opciones": ["derecho objetivo", "derecho natural", "derecho subjetivo", "derecho positivo"],
+    "respuesta_correcta": "derecho subjetivo"
+  },
+  {
+    "numero": 61,
+    "tipo": "multiple_choice",
+    "pregunta": "Constitución nacional. Nuevos derechos y garantías",
+    "opciones": ["promover la igualdad de oportunidades y de trato, en particular respecto de niños mujeres, ancianos y discapacitados", "Establecer y modificar las asignaciones y recursos coparticipables", "derechos de consumidores y usuarios. De protección a la salud e intereses económicos", "aprobar tratados de integración que deleguen atribuciones a organismos supranacionales para la integración, con jerarquía superior a las leyes"],
+    "respuesta_correcta": "derechos de consumidores y usuarios. De protección a la salud e intereses económicos"
+  },
+  {
+    "numero": 38,
+    "tipo": "multiple_choice",
+    "pregunta": "“Promover la actuación de la justicia en defensa de la legalidad de los intereses generales de la sociedad. Es función de”",
+    "opciones": ["defensor del pueblo", "de la auditoría de la nación", "del consejo de magistratura", "del ministerio público"],
+    "respuesta_correcta": "del ministerio público"
+  },
+  {
+    "numero": 39,
+    "tipo": "multiple_choice",
+    "pregunta": "Son funciones del ministerio público fiscal",
+    "opciones": ["Emitir propuestas en ternas vinculantes, para el nombramiento de los magistrados de los tribunales inferiores", "Ejercer facultades disciplinarias sobre magistrados", "Decidir la apertura del procedimiento de remoción de magistrado, en su caso ordenar la suspensión, y formular la acusación correspondiente", "Promover la actuación de la justicia en defensa de la legalidad de los intereses generales de la sociedad"],
+    "respuesta_correcta": "Promover la actuación de la justicia en defensa de la legalidad de los intereses generales de la sociedad"
+  },
+  {
+    "numero": 40,
+    "tipo": "multiple_choice",
+    "pregunta": "CN: la reforma constitucional de 1994 introdujo en la parte orgánica la institución de la auditoría general de la nación. ¿En qué ámbito desarrolla su actividad la AGN?",
+    "opciones": ["Ejecutivo", "Legislativo", "judicial"],
+    "respuesta_correcta": "Legislativo"
+  },
+  {
+    "numero": 41,
+    "tipo": "multiple_choice",
+    "pregunta": "Entre las siguientes opciones indique cuál/es corresponde/n a atribuciones del congreso",
+    "opciones": ["promover la actuación de la justicia en defensa de la legalidad de los intereses generales de la sociedad", "Aprobar Tratados de integración que deleguen atribuciones a organismos supranacionales para la integración, con jerarquía superior a las leyes", "coordinar, preparar y convocar a reuniones de gabinete de ministros, presindiéndolas en caso de ausencia del presidente", "Proveer el Desarrollo Humano, progreso económico con justicia social, generación de empleo, igualdad de oportunidades, educación pública y gratuita, etc."],
+    "respuesta_correcta": ["Aprobar Tratados de integración que deleguen atribuciones a organismos supranacionales para la integración, con jerarquía superior a las leyes", "Proveer el Desarrollo Humano, progreso económico con justicia social, generación de empleo, igualdad de oportunidades, educación pública y gratuita, etc."]
+  },
+  {
+    "numero": 42,
+    "tipo": "multiple_choice",
+    "pregunta": "Auditoría general de la nación. Indique las características que la tipifican",
+    "opciones": ["órgano con dependencia funcional", "órgano con autonomía funcional", "miembros con inmunidad funcional e intangibilidad de remuneraciones", "integrado por un procurador general de la nación y un defensor general de la nación", "goza de inmunidades y privilegios de los legisladores", "organismo de asistencia técnica del congreso", "control de legalidad, gestión y auditoría de toda la actividad de la administración pública centralizada y descentralizada", "quien preside el organismo es designado a propuesta del partido político de oposición con mayor número de legisladores en el congreso"],
+    "respuesta_correcta": ["órgano con autonomía funcional", "organismo de asistencia técnica del congreso", "control de legalidad, gestión y auditoría de toda la actividad de la administración pública centralizada y descentralizada"]
+  },
+  {
+    "numero": 43,
+    "tipo": "multiple_choice",
+    "pregunta": "Serie de fallos que resuelven una misma cuestión en un mismo sentido, aplicando principios semejantes en cuestiones análogas",
+    "opciones": ["Doctrina", "Sentencia", "Jurisprudencia", "Fallo"],
+    "respuesta_correcta": "Jurisprudencia"
+  },
+  {
+    "numero": 44,
+    "tipo": "multiple_choice",
+    "pregunta": "Auditoría general de la nación. Señale sus funciones o atribuciones",
+    "opciones": ["promover la actuación de la justicia en defensa de la legalidad de los intereses generales de la sociedad", "hacer recaudar las rentas de la nación y ejecutar la ley de presupuesto nacional", "legislar y promover medidas de acción positiva que garanticen la igualdad de oportunidades y el trato", "Ninguna es correcta"],
+    "respuesta_correcta": "Ninguna es correcta"
+  },
+
+  {
+    "numero": 45,
+    "tipo": "desarrollar",
+    "pregunta": "Vicios propios de los actos jurídicos que para \n lograr su anulación encuentran fundamentación en otras causas distintas \na la formación de la voluntad. Atacan la buena fe.",
+    "respuesta_correcta": " "
+  }, {
+    "numero": 46,
+    "tipo": "desarrollar",
+    "pregunta": "Formas de constitución de Sociedades Anónimas.",
+    "respuesta_correcta": "Por acto único y por suscripción pública"
+  },  {
+    "numero": 47,
+    "tipo": "desarrollar",
+    "pregunta": "Dominio fiduciario: indique su naturaleza.",
+    "respuesta_correcta": ""
+  },{
+    "numero": 48,
+    "tipo": "desarrollar",
+    "pregunta": "Participes de contrato de fideicomiso (nombrarlos y determinar las características particulares de cada uno).",
+    "respuesta_correcta": "Fiduciario,\n fiduciante, \n beneficiario"
+  },
+  {
+    "numero": 49,
+    "tipo": "desarrollar",
+    "pregunta": "Diferencia entre contrato de obra y de servicio. Según divisibilidad y precio.",
+    "respuesta_correcta": "divisibilidad(contrato_servicio: Divisible, contrato_obra: No divisible), \n precio(contrato_servicio: Depende del tiempo contrato_obra: No depende del tiempo)"
+    },
+  {
+    "numero": 50,
+    "tipo": "desarrollar",
+    "pregunta": "La obligación se extingue cuando el acreedor acepta voluntariamente en pago una prestación diversa de la adeudada.",
+    "respuesta_correcta": "Dación en pago"
+  },
+{
+    "numero": 51,
+    "tipo": "desarrollar",
+    "pregunta": "Obligaciones: clasificación según las personas.",
+    "respuesta_correcta": "Simplemente mancomunadas y solidarias"
+  },
+  {
+    "numero": 52,
+    "tipo": "desarrollar",
+    "pregunta": "Condiciones de expropiación.",
+    "respuesta_correcta": [
+      "Utilidad pública",
+      "Calificación por ley (poder legislativo)",
+      "Indemnización (previa, justa y en dinero)"
+    ]
+  },{
+    "numero": 53,
+    "tipo": "desarrollar",
+    "pregunta": "Persona Jurídica Pública: clasificación.",
+    "respuesta_correcta": 
+      "El Estado Nacional, \nLas Provincias,\n CABA, \nLos Municipios, \nLas Entidades Autárquicas , \nLos Estados Extranjeros, \nOrganizaciones reconocidas por el derecho internacional, \nLa Iglesia Católica"
+  },
+  {
+    "numero": 54,
+    "tipo": "desarrollar",
+    "pregunta": "Persona Jurídica Privada: clasificación.",
+    "respuesta_correcta": 
+      "Las Sociedades, \nLas Asociaciones Civiles,\n Las Simples Asociaciones, \nLas Fundaciones,\n Las Iglesias, \nconfesiones, \ncomunidades o entidades religiosas,\n Las Mutuales , \nLas Cooperativas, \nEl Consorcio de Propiedad Horizontal,\n Toda otra contemplada en este Código o en otras leyes"
+    
+  },{
+    "numero": 55,
+    "tipo": "desarrollar",
+    "pregunta": "Cosas en que todo individuo de la especie equivale a \n otro y pueden sustituirse por otros de igual calidad y cantidad.",
+    "respuesta_correcta": "Cosas fungibles"
+  },{
+    "numero": 56,
+    "tipo": "desarrollar",
+    "pregunta": "La extinción de una obligación por la creación de otra nueva\n que la reemplaza.",
+    "respuesta_correcta": "Novación"
+  },
+  {
+    "numero": 57,
+    "tipo": "desarrollar",
+    "pregunta": "Hay contrato ___ si una parte entrega una casa no fungible para uso gratuito y debe ser restituida.",
+    "respuesta_correcta": "Contrato de comodato"
+  },{
+    "numero": 58,
+    "tipo": "desarrollar",
+    "pregunta": "Derecho positivo: concepto.",
+    "respuesta_correcta": "Derecho vigente o aplicado en un Estado en un determinado momento \n  (leyes, decretos, ordenanzas, etc.)"
+  },
+  {
+    "numero": 59,
+    "tipo": "desarrollar",
+    "pregunta": "Elementos que conforman el mecanismo de formación de la voluntad.",
+    "respuesta_correcta": "Discernimiento , \n Intención,  \n Libertad "
+    
+  },{
+    "numero": 60,
+    "tipo": "desarrollar",
+    "pregunta": "Accidente de trabajo: definir.",
+    "respuesta_correcta": "falta respuestaa"
+  },
+  {
+    "numero": 61,
+    "tipo": "desarrollar",
+    "pregunta": "Enfermedad profesional: definir.",
+    "respuesta_correcta": "falta respuesta "
+  },
+
+  {
+    "numero": 62,
+    "tipo": "desarrollar",
+    "pregunta": "Extinción por prestación diversa aceptada por el acreedor.",
+    "respuesta_correcta": "Dación en pago"
+  },
+  {
+    "numero": 63,
+    "tipo": "desarrollar",
+    "pregunta": "Contratos: elementos de prueba.",
+    "respuesta_correcta": [
+      "Instrumentos públicos, \n Instrumentos privados, \n Confesión de partes, \n Juramento judicial, \n Presunciones legales, \n Testigos"
+    ]
+  },
+  {
+    "numero": 64,
+    "tipo": "desarrollar",
+    "pregunta": "Hay contrato ___ cuando una persona se obliga accesoriamente por  \n  otra en caso de incumplimiento.",
+    "respuesta_correcta": "Contrato de fianza"
+  },
+  {
+    "numero": 65,
+    "tipo": "desarrollar",
+    "pregunta": "Diferencia entre contrato de obra y de servicio (divisibilidad y precio).",
+    "respuesta_correcta": "divisibilidad(Contrato de servicio: Divisible, Contrato de obra: No divisible), \n precio(Contrato de servicio: Depende del tiempo,Contrato de obra: No depende del tiempo)"
+  },
+
+  {
+    "numero": 66,
+    "tipo": "desarrollar",
+    "pregunta": "Contrato por obligación accesoria en caso de incumplimiento.",
+    "respuesta_correcta": "Contrato de fianza"
+  },
+  
+  {
+    "numero": 67,
+    "tipo": "desarrollar",
+    "pregunta": "Conclusión del contrato de obra: formas.",
+    "respuesta_correcta": "Conclusión en tiempo, forma y entrega de documentación,Rescisión"
+    }
+]
